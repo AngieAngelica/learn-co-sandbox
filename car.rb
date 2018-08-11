@@ -29,4 +29,4 @@ car4 = Car.new("Avi", "Chevy", "S10")
 
 binding.pry
 
-puts new_car
+puts "Goodbye"
